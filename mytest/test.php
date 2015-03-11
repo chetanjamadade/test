@@ -1,7 +1,7 @@
 <?php
 session_start();
 //echo $_SERVER['HTTP_REFERER']."----";
-
+$timesjobs;
 $timesjobs="http://www.timesjobs.com/candidate/JobDetailView.html?adId=LFqPJZ06wMhzpSvf__PLUS__uAgZw==&bc=INT&from=submit&searchName=inner&fnm=TJAJD&utm_source=ja_jd&utm_medium=email&utm_campaign=tj_jobAlert";
 
 $facebook="http://lm.facebook.com/l.php?u=http%3A%2F%2Fwww.mithi.com%2Fapply-now.html&h=aAQGWDQbP&enc=AZPxaPVuwoKskj85IBPWm6DN9B1_XheonyKE2EQLBbELJF-5RBJ9gyp8KGTjw6ZGrjJtL_zmh5uWyN4i1gYhmkis&s=1";
